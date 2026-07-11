@@ -127,12 +127,20 @@
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="Judge.cpp" />
     <ClCompile Include="kadai1kaisetu.cpp" />
+<<<<<<< Updated upstream
+=======
+    <ClCompile Include="Number.cpp" />
+>>>>>>> Stashed changes
     <ClCompile Include="Random.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DispResult.h" />
     <ClInclude Include="Input.h" />
     <ClInclude Include="Judge.h" />
+<<<<<<< Updated upstream
+=======
+    <ClInclude Include="Number.h" />
+>>>>>>> Stashed changes
     <ClInclude Include="Random.h" />
     <ClInclude Include="Result.h" />
   </ItemGroup>
